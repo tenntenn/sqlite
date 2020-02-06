@@ -11,3 +11,5 @@ require (
 	modernc.org/memory v1.0.0 // indirect
 	modernc.org/sqlite v1.0.0
 )
+
+go 1.13
