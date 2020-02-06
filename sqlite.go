@@ -1,4 +1,4 @@
-// +build !darwin,windows,linux
+// +build !darwin,windows !darwin,linux
 
 package sqlite
 
